@@ -1,0 +1,18 @@
+There are three types of version controls are :
+1. Localized VC
+2. Centralized VC
+3. Distributed VC
+
+Localized VC : VC is happening locally on my computer is called as Localized VC. In this we are using the same versions of database there is version 1 and then we done some changes and there is version 2 and again we do some chnages it's version 3 so it can be seen or happening in my system or computer only. bcoz its locally.
+
+For example : We are writting the code and saving the code locally or in my laptop we are not uploading anywhere so it's Localized but if my laptop get crashed or motherboard get crashed then i loose my data or code so this thing can be solved by centralized vc.
+
+Limitation : In Localized vc we can maintain the multiple versions but if there is a hardware crash or prower failure or motherboard crash then there is high chance that we loose the data. And it can be solved by Centralized VC.
+
+Centralized VC : VC is centralized in the computer so that anyone can fetch the data or version remotely. Different version are maintain on separate machine which is central anyone who is working on that company they can checkout the code from that server and work on the local machine called Centralized VC
+
+Limitation : What if central version control (Centralized)(spof - single point of failure) goes down or get crashed then we are start loosing all the data.If central server get corrupted then every one has to face the issue bcoz they are taking the data from central. And it can be solved by Distributed VC
+
+Distributed VC : It insures that there is no spof. In this there is central version control and each of the individual have copy of above central version. It is Distributed in nature.
+
+Any advanced version control tools available in the market is using distributed VC
