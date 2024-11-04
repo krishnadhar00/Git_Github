@@ -1,0 +1,15 @@
+All the tools and technique that we use to manage the version of software that we build is called as version Control.
+eg. version means like java have many version like java1,java8,java11 so on it's a version.
+
+Version Control is provide 
+    1. contribute to open source work.
+    2. Share some code which will help others.
+    3. Share the projects.
+
+eg. Like in company many people work on the same projet so whatever they do the changes in their code all the changes can be seen easily wth of version control. they can also integrate the code seamlessly with the help of version control.It allows to share the code integrate teh code easiy and all the changes will be visible to others also.
+
+version control can help or ensures 
+    1. in collaboration.
+    2. Seamlessly integrate the changes.
+    3. visibility around the changes.
+    4. Maintaining the versions.
